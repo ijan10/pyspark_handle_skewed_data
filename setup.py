@@ -11,7 +11,6 @@ setup(
   download_url = 'https://github.com/ijan10/pyspark_handle_skewed_data/archive/v_0.1.tar.gz',    # I explain this later on
   keywords = ['PySpark', 'skew', 'join'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'pyspark.sql',
           'operator'
       ],
   classifiers=[
