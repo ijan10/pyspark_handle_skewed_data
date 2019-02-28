@@ -2,7 +2,6 @@ import pyspark.sql.functions as func
 
 from pyspark.sql.types import StringType
 from operator import itemgetter
-import traceback
 from pyspark.sql import Row
 
 
